@@ -15,19 +15,25 @@ This React Native app tracks the user's real-time location, displays it on a Goo
 
 ## 📷 Screenshots
 
-![Splash Screen](./src/assets/screenshots/splash.jpeg)
+![Permission](./src/assets/screenshots/1.jpeg)
 
-![Loading Screen](./src/assets/screenshots/loading.jpeg)
+![  Location Traker Permission](./src/assets/screenshots/6.jpeg)
 
-![Contact List Screen](./src/assets/screenshots/contactList.jpeg)
+![Loading Your Location](./src/assets/screenshots/3.jpeg)
 
-![Favorite Contacts Screen](./src/assets/screenshots/favoritecontacts.jpeg)
+![Location Traker with stop](./src/assets/screenshots/4.jpeg)
+
+![Location Traker with start ](./src/assets/screenshots/5.jpeg)
+
+![Location Service not enable ](./src/assets/screenshots/7.jpeg)
+
+
 ## 🔧 Setup Instructions
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/anjali67/Contacts-App.git
-   cd ContactApp
+   git clone https://github.com/anjali67/LocationTracker.git
+   cd LocationTracker
 
 
 ```bash

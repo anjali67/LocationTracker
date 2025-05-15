@@ -33,7 +33,6 @@ export const promptEnableLocation = async (): Promise<boolean> => {
       await promptForEnableLocationIfNeeded();
       return true;
     } catch (error: any) {
-      Alert.alert('Enable Location', error.message);
       return false;
     }
   }

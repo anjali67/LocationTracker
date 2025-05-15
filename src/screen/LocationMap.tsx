@@ -37,6 +37,7 @@ const MapScreen: React.FC = () => {
         routeRef.current = storedRoute;
       }
     });
+    setTimeout(() => startTracking(), 500);
   }, []);
 
   useEffect(() => {
